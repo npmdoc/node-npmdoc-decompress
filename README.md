@@ -1,9 +1,14 @@
-# api documentation for  [decompress (v4.0.0)](https://github.com/kevva/decompress#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-decompress.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-decompress) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-decompress.svg)](https://travis-ci.org/npmdoc/node-npmdoc-decompress)
+# npmdoc-decompress
+
+#### api documentation for  [decompress (v4.0.0)](https://github.com/kevva/decompress#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-decompress.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-decompress) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-decompress.svg)](https://travis-ci.org/npmdoc/node-npmdoc-decompress)
+
 #### Extracting archives made easy
 
-[![NPM](https://nodei.co/npm/decompress.png?downloads=true)](https://www.npmjs.com/package/decompress)
+[![NPM](https://nodei.co/npm/decompress.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/decompress)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-decompress/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-decompress_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-decompress/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-decompress/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-decompress/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-decompress/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-decompress/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-decompress/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Kevin Mårtensson",
-        "email": "kevinmartensson@gmail.com",
         "url": "https://github.com/kevva"
     },
     "bugs": {
@@ -68,17 +72,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "kevva",
-            "email": "kevinmartensson@gmail.com"
+            "name": "kevva"
         },
         {
-            "name": "shinnn",
-            "email": "snnskwtnb@gmail.com"
+            "name": "shinnn"
         }
     ],
     "name": "decompress",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/kevva/decompress.git"
@@ -92,16 +93,6 @@
     }
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module decompress](#apidoc.module.decompress)
-
-
-
-# <a name="apidoc.module.decompress"></a>[module decompress](#apidoc.module.decompress)
 
 
 
